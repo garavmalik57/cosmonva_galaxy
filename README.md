@@ -51,8 +51,17 @@ CosmoNova is an AI-powered galaxy detection system that allows users to upload a
 - **Algorithms used:** CNN, YOLO, Random Forest.
 - **Inference Framework:** Roboflow API.
 
-## 🤝 Contributing
-Contributions are welcome! Feel free to submit issues or pull requests.
+## Contributors ✨  
+
+Thanks to these amazing contributors:  
+
+- [Garv Malik](https://github.com/garavmalik57)  
+- [Ayush Kashyap](https://github.com/ayush126kashyap)  
+- [Kaavaya Gupta](https://github.com/KaavyaG2712)  
+- [Souhardya Ghosh](https://github.com/souhardyaghosh)  
+
+Feel free to contribute! 🚀  
+
 
 ## 📜 License
 This project is licensed under the MIT License.
