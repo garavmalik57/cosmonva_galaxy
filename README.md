@@ -59,7 +59,7 @@ Thanks to these amazing contributors:
 - [Ayush Kashyap](https://github.com/ayush126kashyap)  
 - [Kaavaya Gupta](https://github.com/KaavyaG2712)  
 - [Souhardya Ghosh](https://github.com/souhardyaghosh)
-- [Uday Tripathi](https://github.com/Uday-Trivedi)
+- [Uday Trivedi](https://github.com/Uday-Trivedi)
 
 Feel free to contribute! 🚀  
 
